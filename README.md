@@ -1,8 +1,10 @@
 # Neopixel Xmas Stars
 
-![N|Solid](https://raw.githubusercontent.com/electgpl/PowerMeter/master/20180807_204942.jpg)
+![N|Solid](https://raw.githubusercontent.com/electgpl/Neopixel_Xmas_Stars/master/Media/20191203_215045.jpg)
 
-![N|Solid](https://raw.githubusercontent.com/electgpl/PowerMeter/master/descarg%C3%B1a.png)
+![N|Solid](https://raw.githubusercontent.com/electgpl/Neopixel_Xmas_Stars/master/Media/20191204_113412.jpg)
+
+![N|Solid](https://raw.githubusercontent.com/electgpl/Neopixel_Xmas_Stars/master/Media/20191204_113351.jpg)
 
 Este es un proyecto con fines decorativos para Navidad y otros, Se trata de una estrella con 20 Leds inteligentes Neopixel (WS2812) el cual podremos controlar desde Arduino, ESP8266, ESP32, PIC, etc....
 En este proyecto estamos usando el Footprint de Wemos D1 Mini (ESP8266), pero se podria cablear cualquier controlador ya que solo se utilizan tres pines de conexion +5V, GND, DataIn.
