@@ -6,6 +6,9 @@
 
 ![N|Solid](https://raw.githubusercontent.com/electgpl/Neopixel_Xmas_Stars/master/Media/20191204_113351.jpg)
 
+Productos adquiridos en:
+[![N|Solid](https://raw.githubusercontent.com/electgpl/Neopixel_Xmas_Stars/master/Media/lcsc-logo.png)](https://lcsc.com/?from_code=PL20191029WJJJ)
+
 Este es un proyecto con fines decorativos para Navidad y otros, Se trata de una estrella con 20 Leds inteligentes Neopixel (WS2812) el cual podremos controlar desde Arduino, ESP8266, ESP32, PIC, etc....
 En este proyecto estamos usando el Footprint de Wemos D1 Mini (ESP8266), pero se podria cablear cualquier controlador ya que solo se utilizan tres pines de conexion +5V, GND, DataIn.
 
